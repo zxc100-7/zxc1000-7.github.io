@@ -1,0 +1,23 @@
+
+.header{
+    height: 50px;
+    background-color:2C2B2B ;
+    display: flex;
+    justify-content: space-between;
+    padding:8 300 ;
+
+}
+
+.logo{
+    width: 223;
+    height: 213;
+}
+.container{
+    display: flex;
+}
+nav>a{
+    
+}
+
+
+
